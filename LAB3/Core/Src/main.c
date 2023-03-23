@@ -22,6 +22,7 @@
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 #define IC_BUFFER_SIZE 20
+//tanapat
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
